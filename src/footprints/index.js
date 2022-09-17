@@ -19,5 +19,6 @@ module.exports = {
     via: require('./via'),
 	pcm12: require('./pcm12'),
 	b3u1000p: require('./b3u1000p'),
+	evq2602w: require('./evq2602w'),
 	bat: require('./bat')
 }
